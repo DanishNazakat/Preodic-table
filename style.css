@@ -1,0 +1,63 @@
+h1{
+    font-size: 35px;
+}
+td{
+    height: 70px;
+    width: 70px;
+
+    line-height: 25px;
+    font-size: 12px;
+}
+
+table{
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(252, 241, 211);
+    color: black;
+}
+
+
+.symbol{
+    font-size: 20px;
+
+}
+
+
+
+.td1{
+    background-color: rgb(243, 174, 119);
+}
+.td2{
+    background-color: rgb(224, 227, 34);
+}
+.td3{
+    
+    background-color:rgb(96, 224, 149);
+}
+.td4{
+    background-color: rgb(89, 163, 248);
+}
+.td5{
+    background-color: rgb(172, 129, 199);
+}
+.td6{
+    background-color: rgb(183, 189, 195);
+}
+.td7{
+    background-color: rgb(127, 239, 195);
+}
+.td8{
+    background-color: rgb(114, 255, 114);
+}
+.td9{
+    background-color: rgb(139, 187, 142);
+}
+.td10{
+    background-color:rgba(0, 255, 255, 0.584);
+}
+
+
+.span{
+    border: none;
+    background-color: none;
+}
